@@ -1,3 +1,3 @@
-# sfml_sample  
-Шаблон подключения библиотеки SFML для Visual Studio 2019  
+# sfml-game  
+Лабараторная работа 5-8
 

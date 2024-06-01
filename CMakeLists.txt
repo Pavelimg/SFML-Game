@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15) # Проверка версии CMake.
 									 # Если версия установленой программы
 									 # старее указаной, произайдёт аварийный выход.
 
-set(PROJECT_NAME sfml_sample)				 # имя проекта		 
+set(PROJECT_NAME sfml_game)				 # имя проекта		 
 project("${PROJECT_NAME}")
 
 
